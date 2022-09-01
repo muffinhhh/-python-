@@ -21,6 +21,5 @@ alien_1['x_position'] = alien_1['x_position'] + x_increment
 
 print(f"New position : {alien_1['x_position']}")
 
---------------------------------------------------------
 
 
